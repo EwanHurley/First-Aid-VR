@@ -1,0 +1,2 @@
+This simulator will teach critical first aid skills to anybody willing to learn, giving them the experience to handle some common medical emergencies.<br>
+[Website](https://unixweb.kutztown.edu/~mthom380/FAVR/FAVRmain.html)
